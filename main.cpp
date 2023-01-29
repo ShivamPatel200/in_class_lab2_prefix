@@ -4,7 +4,7 @@ using namespace std;
 
 int nums_1[] = {2,-3,3,2};
 int nums_2[] = {1,1,-1,-1};
-int nums_3[] = {-1,-1,1,1};\
+int nums_3[] = {-1,-1,1,1};
 int nums_4[] = {-1,-1,-1,-1};
 
 int main () {
